@@ -1,6 +1,6 @@
-baseurl: 'https://tuncelhukukburosu.com'
+baseurl: 'https://tuncelhukukburosu.com/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Tuncel Hukuk'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
