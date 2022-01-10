@@ -10,5 +10,5 @@ intro_image_hide_on_mobile: false
 # Av. Zahide Berrak Tuncel
 Kurucu & Avukat
 
-![Accounting Services](/images/aile-hukuku-1170x780.jpg)
+![Accounting Services](/images/avberrak.jpeg)
 
