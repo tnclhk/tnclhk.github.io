@@ -9,4 +9,4 @@ show_call_box: true
 ---
 
 # Av. Z. Berrak Tuncel
-Tuncel Hukuk Bürosu ile hukuki danışmanlık & dava takip hizmeti ihtiyaçlarınıza yönelik en etkili çözümler...
+Tuncel Hukuk Bürosu olarak kuruluş amacımız kapsamında müvekkil şirket ve şahıslara özel, güvenilir, doğru ve çözüm odaklı hukuk ve danışmanlık hizmeti sunmaktayız.
