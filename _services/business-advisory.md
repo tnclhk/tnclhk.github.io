@@ -4,7 +4,7 @@ date: 2018-11-28T15:14:39+10:00
 featured: true
 weight: 2
 ---
-![Accounting Services](/images/iş-hukuku.jpg)
+![Accounting Services](/images/iş-iş-yeni-1170x780.png)
 
 Tuncel Hukuk Bürosu, her türlü iş sözleşmelerinin hazırlanması, sözleşmelerin feshi ve işten çıkarma süreçlerinin yönetimi, iş yeri düzenleyici metinlerinin hazırlanması ile iş ve sosyal güvenlik hukukuna ilişkin, işçilik alacakları, işe iade davaları, iş kazasından kaynaklı davalar ve hizmet tespit davalarında hukuki destek sağlamaktadır.
 
