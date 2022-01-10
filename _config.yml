@@ -7,7 +7,7 @@ logo:
   mobile_height: "32px"
   mobile_width: "32px"
   desktop: "images/logo/image2vector.svg"
-  desktop_height: "84px"
+  desktop_height: "100px"
   desktop_width: "140px"
 
 collections:
