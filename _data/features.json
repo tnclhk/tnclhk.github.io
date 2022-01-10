@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Deneme",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Ceza Hukuku",
+    "description": "Ceza davalarınız özenle takip edilir ve çözüme ulaştırılır.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Deneme",
-    "description": "All members of our team are certified accountants.",
+    "title": "Arabuluculuk",
+    "description": "Zorunlu ve ihtiyari arabuluculuk alanlarında hizmet vermekteyiz.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Deneme",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Bilişim Hukuku",
+    "description": "E-ticaret, siber güvenlik ve tüm bilişim suçlarına ilişkin konularda çözüm üretilir.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
