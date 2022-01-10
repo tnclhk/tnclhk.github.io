@@ -1,5 +1,5 @@
 ---
-title: Jekyll Serif Theme
+title: Tuncel Hukuk Bürosu
 layout: home
 description: Tuncel Hukuk Bürosu ile hukuki danışmanlık & dava takip hizmeti ihtiyaçlarınıza yönelik en etkili çözümler...
 intro_image: "images/illustrations/pointing.svg"
