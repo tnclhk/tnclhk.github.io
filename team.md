@@ -10,5 +10,7 @@ intro_image_hide_on_mobile: false
 # Av. Zahide Berrak Tuncel
 Kurucu & Avukat
 
-![Accounting Services](/images/avberrak.jpeg)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/97395377/148776044-b755ef25-b1db-4ca9-bc2a-6cdd1fd1a8af.jpeg">
+</p>
 
