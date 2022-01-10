@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# Faaliyet Alanlarımız
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Hukuk büromuz her türlü ticari faaliyete ve aynı zamanda bireylerin hukuki sorunlarına ilişkin olarak ulusal ve uluslararası hukuki danışmanlık hizmetleri vermektedir.
