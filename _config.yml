@@ -7,8 +7,8 @@ logo:
   mobile_height: "32px"
   mobile_width: "32px"
   desktop: "images/logo/logo.png"
-  desktop_height: "64px"
-  desktop_width: "120px"
+  desktop_height: "84px"
+  desktop_width: "140px"
 
 collections:
   services:
