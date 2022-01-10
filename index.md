@@ -8,6 +8,5 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
-
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+# Av. Z. Berrak Tuncel
+Tuncel Hukuk Bürosu ile hukuki danışmanlık & dava takip hizmeti ihtiyaçlarınıza yönelik en etkili çözümler...
