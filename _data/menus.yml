@@ -1,21 +1,21 @@
 main:
-  - name: "Services"
+  - name: "Hizmetler"
     url: "/services/"
     weight: 2
-  - name: "Team"
+  - name: "Avukatlar"
     url: "/team/"
     weight: 3
-  - name: "About"
+  - name: "Hakkımızda"
     url: "/about/"
     weight: 4
-  - name: "Contact"
+  - name: "İletişim"
     url: "/contact/"
     weight: 5
 
 footer:
-  - name: "Home"
+  - name: "Anasayfa"
     url: "/"
     weight: 1
-  - name: "Contact"
+  - name: "İletişim"
     url: "/contact/"
     weight: 2
