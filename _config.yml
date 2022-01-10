@@ -7,8 +7,8 @@ logo:
   mobile_height: "32px"
   mobile_width: "32px"
   desktop: "images/logo/tuncelhukuk.PNG"
-  desktop_height: "100px"
-  desktop_width: "140px"
+  desktop_height: "459px"
+  desktop_width: "167px"
 
 collections:
   services:
