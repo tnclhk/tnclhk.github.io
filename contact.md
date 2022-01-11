@@ -2,7 +2,7 @@
 title: İletişim
 layout: contact
 description: Contact
-intro_image: "images/features/law.jpg"
+intro_image: "images/illustrations/law.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
