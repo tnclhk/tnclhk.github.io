@@ -2,6 +2,9 @@
 title: İletişim
 layout: contact
 description: Contact
+intro_image: "images/features/law.jpg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
 ---
 
 Müvekkilerinin hizmet taleplerine cevap verebilmek amacı ile Tuncel Hukuk Bürosu, güven ve profesyonellik anlayışından ödün vermeden çalışmalarını sürdürmektedir.
