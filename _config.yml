@@ -35,6 +35,9 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  
+gems:
+  - jekyll-maps
 
 exclude:
   - Gemfile
