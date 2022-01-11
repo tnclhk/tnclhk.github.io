@@ -2,6 +2,9 @@
 title: Hakkımızda
 layout: page
 description: About
+intro_image: "images/illustrations/law.jpg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: true
 bodyClass: page-about
 ---
 
