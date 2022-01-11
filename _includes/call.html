@@ -10,6 +10,9 @@
       </a>
     </div>
     {% endif %}
+     {% if site.data.contact.address %}
+        <div class="call-address"><strong>Adres: </strong> {{ site.data.contact.address }} </div>
+    {% endif %}
   </div>
     {% if include.show_button %}
       <div class="call-box-bottom">
