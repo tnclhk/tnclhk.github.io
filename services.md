@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Faaliyet Alanlarımız
 layout: services
 description: Services
 intro_image: "images/illustrations/law.jpg"
