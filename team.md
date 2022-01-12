@@ -13,7 +13,7 @@ intro_image_hide_on_mobile: true
 
 ### Av. Z. Berrak Tuncel
 *Kurucu&Avukat*
-<p align="left">
+<p align="justify">
 <p align="center">
   <img width="203" height="281" src="https://user-images.githubusercontent.com/97395377/149089706-f72b8f3d-2f61-4975-8373-ea20c8714d7a.jpeg">
 </p>
