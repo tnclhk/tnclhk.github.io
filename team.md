@@ -3,7 +3,7 @@ title: Team
 layout: teams
 description: Team
 permalink: "/team/"
-intro_image: "/images/illustrations/Resim1.jpg"
+intro_image: "/images/illustrations/Resim2.jpg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
