@@ -1,5 +1,5 @@
 ---
-title: Team
+title: Avukatlar
 layout: teams
 description: Team
 permalink: "/team/"
